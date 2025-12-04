@@ -1,0 +1,15 @@
+C:\coding\9c#\1basic-programming-c#\sum-even-numbers--1-100-\sum-even-numbers\bin\Debug\net8.0\sum-even-numbers.exe
+C:\coding\9c#\1basic-programming-c#\sum-even-numbers--1-100-\sum-even-numbers\bin\Debug\net8.0\sum-even-numbers.deps.json
+C:\coding\9c#\1basic-programming-c#\sum-even-numbers--1-100-\sum-even-numbers\bin\Debug\net8.0\sum-even-numbers.runtimeconfig.json
+C:\coding\9c#\1basic-programming-c#\sum-even-numbers--1-100-\sum-even-numbers\bin\Debug\net8.0\sum-even-numbers.dll
+C:\coding\9c#\1basic-programming-c#\sum-even-numbers--1-100-\sum-even-numbers\bin\Debug\net8.0\sum-even-numbers.pdb
+C:\coding\9c#\1basic-programming-c#\sum-even-numbers--1-100-\sum-even-numbers\obj\Debug\net8.0\sum-even-numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\coding\9c#\1basic-programming-c#\sum-even-numbers--1-100-\sum-even-numbers\obj\Debug\net8.0\sum-even-numbers.AssemblyInfoInputs.cache
+C:\coding\9c#\1basic-programming-c#\sum-even-numbers--1-100-\sum-even-numbers\obj\Debug\net8.0\sum-even-numbers.AssemblyInfo.cs
+C:\coding\9c#\1basic-programming-c#\sum-even-numbers--1-100-\sum-even-numbers\obj\Debug\net8.0\sum-even-numbers.csproj.CoreCompileInputs.cache
+C:\coding\9c#\1basic-programming-c#\sum-even-numbers--1-100-\sum-even-numbers\obj\Debug\net8.0\sum-even-numbers.sourcelink.json
+C:\coding\9c#\1basic-programming-c#\sum-even-numbers--1-100-\sum-even-numbers\obj\Debug\net8.0\sum-even-numbers.dll
+C:\coding\9c#\1basic-programming-c#\sum-even-numbers--1-100-\sum-even-numbers\obj\Debug\net8.0\refint\sum-even-numbers.dll
+C:\coding\9c#\1basic-programming-c#\sum-even-numbers--1-100-\sum-even-numbers\obj\Debug\net8.0\sum-even-numbers.pdb
+C:\coding\9c#\1basic-programming-c#\sum-even-numbers--1-100-\sum-even-numbers\obj\Debug\net8.0\sum-even-numbers.genruntimeconfig.cache
+C:\coding\9c#\1basic-programming-c#\sum-even-numbers--1-100-\sum-even-numbers\obj\Debug\net8.0\ref\sum-even-numbers.dll
